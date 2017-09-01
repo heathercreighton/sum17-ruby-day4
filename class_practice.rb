@@ -224,7 +224,7 @@
 
 # all_the_people.push(new_profile)
 
-
+# new_profile = Person.new("Mickey Mouse", 117)
 
 
 
